@@ -1,0 +1,224 @@
+*{
+	margin: 0px;
+}
+
+
+#heading2{
+	text-align: center;
+	padding: 5px;
+	color: #1f36d6bf;
+	background: rgb(204 201 214 / 92%);
+	font-size: 28px;
+	bottom: 0;
+
+}
+
+.heading3{
+	text-align: center;
+	padding: 8px;
+	font-size: 40px;
+	font-family: serif,sans-serif,arial;
+	background-color: white;
+}
+
+.squaress::before{
+	content: "";
+	background: url("https://st4.depositphotos.com/4304307/20304/i/1600/depositphotos_203049960-stock-photo-office-desktop-modern-laptop-blue.jpg")	 no-repeat center center/cover;
+	position: absolute;
+	width: 100%;
+     height: 700px;
+	z-index: -1;
+	opacity: 0.6;
+	top: 0;
+	left: 0;
+
+}
+.squaress{
+	height: 590px;
+}
+.square{
+	margin: 142px 0px 0px 133px;
+
+}
+#para{
+	font-size: 20px;
+	font-style: italic;
+}
+#heading4{
+    font-size: 48px;
+    font-style: bold;
+}
+.btn{
+	font-size: 15px;
+	padding: 10px;
+	border-radius: 5px;
+	box-shadow: 3px 3px 2px black;
+	cursor: pointer;
+	background-color: #1e0cd4db;
+	color: white;
+
+}
+.btn a{
+	color: white;
+}
+.pickup{
+	justify-content: center;
+	text-align: center;
+	font-size: 25px;
+	margin-top: 10px;
+	padding: 30px;
+}
+.local{
+	color: tomato;
+}
+#thirdpart{
+	margin-top: 10px 15px 0px 20px;
+	
+
+	height: 600px;
+	background-color: #cecbcbcc;
+}
+#solution{
+	color: tomato; 
+}
+#third{
+	margin: 20px 30px 10px 30px;
+}
+#columns{
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	padding:  13px 8px 0px 10px;
+	margin: 7px;
+}
+#image1{
+	justify-content: center;
+	margin-top:100px;
+	margin-left: 170px;
+	width: 1000px;
+	height: 410px;
+
+}
+
+.fourth{
+	margin: 260px 350px 150px 350px;
+	justify-content: center;
+	text-align: center;
+	padding: 35px;
+	background-color: #71495045;
+	border-radius: 12px;
+}
+#scrolling{
+	margin: 20px 30px 0px 50px;
+}
+#scroll{
+	margin: 20px 30px 0px 30px;
+}
+#scrollss{
+	margin: 20px 30px 0px 30px;
+}
+.myself{
+   width: 300px;
+   height: 430px;
+   border: 2px solid #ead1d1;
+   margin-right: 51px;
+}
+#image4{
+	width: 330px;
+	height: 260px;
+}
+#paragraph{
+	padding: 0px 16px 0px 0px;
+	margin: 0px 14px 0px 0px;
+	font-size: 17px;
+}
+.fifth{
+	justify-content: center;
+	text-align: center;
+	margin: 50px 185px 0px 80px;
+	padding: 40px;
+
+}
+#parar{
+	font-size: 16px;
+	padding: 0px 20px;
+	margin: 0px 30px;
+}
+
+.sixth1{
+	margin: 25px 100px;
+	padding: 22px;
+}
+#line{
+	font-size: 17px;
+	margin: 5px;
+	padding: 4px;
+	font-family: arial,serif;
+}
+#buttons{
+	font-size: 23px;
+	cursor: pointer;
+	background-color: blue;
+	color: white;
+	border-radius: 10px;
+	box-shadow: 3px 3px 3px black;
+}
+#buttons a{
+	color: white;
+}
+.first,.second,.third{
+	border: 2px solid #ead1d1;
+	font-size:17px;
+	padding: 4px;
+}
+/*#abcde{
+	border: 2px solid #ead1d1;
+}*/
+.third{
+	height: 100px;
+}
+#buttons{
+	margin: 20px 40px;
+}
+.sixthpart::before{
+	content: "";
+	background: url("https://c8.alamy.com/comp/M0WNJ7/vector-illustration-of-hexagonal-cells-background-digital-futuristic-M0WNJ7.jpg") no-repeat center center/cover;
+    position: absolute;
+    width: 100%;
+    z-index: -2;
+    right: 0;
+    opacity: 0.2;
+    height: 700px;
+
+}
+/*.sixthpart{
+	border: 2px solid red;
+}*/
+.lasting{
+	background-color: black;
+	height: 550px;
+	top: 0px;
+	position: relative;
+	/*border: 2px solid red;*/
+}
+#english{
+	color: white;
+	margin: 100px 70px 20px 150px;
+	padding: 24px;
+	font-size: 40px;
+
+}
+#hrr{
+	color: blue;
+}
+.last li{
+	text-decoration: none;
+	font-size: 24px;
+}
+.last li a{
+	color: white;
+	float: right;
+	margin-right: 100px;
+	list-style: none;
+	text-decoration: none;
+}

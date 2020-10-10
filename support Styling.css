@@ -1,0 +1,92 @@
+.resource{
+     margin-top: 6px;
+}
+
+.logo{
+	color: black;
+}
+#dropdownMenuLink{
+	background-color: white;
+	color: #010d17;
+    border: 2px solid white;
+    margin: 0px 10px;
+    padding: 5px;
+    font-size: 22px;
+    font-family: revert;
+    border-radius: 12px;
+}
+#dropdownMenuLink:hover{
+	background-color: #d6d6d6;
+}
+.col-8{
+	display: flex;
+}
+.col-2 ul{
+	display: flex;
+	list-style: none;
+}
+.col-2 ul li a{
+	font-size: 20px;
+	color: #010d17;
+	margin: 3px;
+	margin-left: 8px;
+    padding: 3px;
+    font-family: fangsong;
+
+}
+.secondpart::before{
+	content: "";
+	background: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm21-color-ake-008_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=1a7cb6fcb5a2842c5adaf164558010ee") no-repeat center center/cover;
+	width: 100%;
+	position: absolute;
+	z-index: -1;
+	top: 80px;
+	height: 500px;
+	opacity: 0.8;
+}
+.second{
+	margin-top: 100px;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-bottom: 80px;
+	color: white;
+	
+}
+#headd{
+	color: tomato;
+	text-shadow: 2px 2px black;
+}
+.thirdterm{
+	justify-content: center;
+	text-align: center;
+	background-color: #29abd8;
+	margin-top: 50px;
+	
+
+}
+#parar{
+	color: white;
+     padding-top: 33px;
+     font-size: 22px;
+}
+.thirdterm a{
+    color: #f8f9fa;
+    text-decoration: none;
+    background-color: transparent;
+    font-size: 29px;
+}
+.fourth{
+	margin-top: 40px; 
+	margin-left: 50px;
+	padding: 4px;
+}
+.steps{
+	display: flex;
+}
+.sec{
+	margin-left: 34px;
+}
+.section_{
+     
+	background-color: #d4d6d882;
+}
